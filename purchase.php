@@ -93,7 +93,7 @@
         </div>
 
         <div class="col-sm-12">
-          <a class="py-3" href="dashboard.php">Kembali</a>
+          <a class="py-3" href="index.html">Kembali</a>
         </div>
 
       </div>
