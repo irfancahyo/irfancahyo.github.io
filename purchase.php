@@ -11,14 +11,14 @@
     <!-- Navbar Section -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-  <a class="navbar-brand" href="#"><img src="https://www.flaticon.com/svg/vstatic/svg/3919/3919960.svg?token=exp=1618064874~hmac=834984a95b4e221e908648aa5f1b2f93" alt="#logo-nav" width="36px" height="44px"> Spasikom</a>
+  <a class="navbar-brand" href="#"><img src="img/flying.png" alt="#logo-nav" width="44px" height="44px"> Spasikom</a>
   </div>
 </nav>
 
     <!-- Purchase Section -->
     <div class="container ">
         <div class="py-5 text-center">
-            <img src="https://www.flaticon.com/svg/vstatic/svg/3068/3068845.svg?token=exp=1618076733~hmac=5cc92d72e899837b1369f9ad3f77f119" alt="#spasikom" width="92px" height="128px" >
+            <img src="img/project.png" alt="#spasikom" width="128px" height="128px" >
             <h2>STRUK Pembelian</h2>
             <p>Ini adalah Struk Pemesanan yang anda lakukan.</p>
         </div>
